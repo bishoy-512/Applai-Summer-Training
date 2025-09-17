@@ -55,7 +55,8 @@ The goal of this project is to **predict the loan completion status** (e.g., Pai
 ## 🤝 Collaboration  
 This project was a team effort!  
 
-- **[Beshoy Karam](https://github.com/beshoy1612)**  
+- **[Bishoy Amgad](https://www.linkedin.com/in/bishoy-amgad-5843902a2/)**  
+- **[Beshoy Karam](https://www.linkedin.com/in/beshoy-karam/)** 
 
 ---
 
